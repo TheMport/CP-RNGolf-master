@@ -1,6 +1,6 @@
 // Code Practice: RNGolf
-// Name: 
-// Date:
+// Name: Miguel Comonfort
+// Date: 1/29/24
 
 'use strict'
 
